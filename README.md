@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Maurício Soares
+- 🌱 I’m currently learning C#
+- 👍 I’m looking to collaborate on Back-End
