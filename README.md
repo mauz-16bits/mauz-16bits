@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maurício Soares;
 - 🌱 I’m currently learning C#;
-- 🦆 WebDex Creator;
+- 🦆 ProStudy and WebDex Creator;
 - ⏳ Developing 3 other projects;
 - 👍 I’m looking to collaborate on Back-End.
