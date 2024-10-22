@@ -6,4 +6,4 @@
 - ⏳ Developing 3 other projects;
 - 👍 I’m looking to collaborate on Back-End.
 
-<p style="font-size:24px;">Este é um texto com fonte maior usando HTML.</p>
+<p style="font-size:204px;">Este é um texto com fonte maior usando HTML.</p>
