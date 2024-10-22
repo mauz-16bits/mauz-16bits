@@ -6,7 +6,7 @@
 - ⏳ Developing 3 other projects;
 - 👍 I’m looking to collaborate on Back-End.
 
-# Pro (or not) in 
+# Pro (or not so much) in 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
 
 ## JavaScript
