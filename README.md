@@ -8,12 +8,12 @@
 
 # Pro in
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-JavaScript
+## JavaScript
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> 
-PHP
+## PHP
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-Python
+## Python
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="80" height="80"/> 
-C++
+## C++
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="python" width="80" height="80"/> 
-Qt
+## Qt
